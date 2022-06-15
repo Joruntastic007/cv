@@ -1,0 +1,17 @@
+body{
+ background-color: #F6E3C5;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width:5%;
+}
+h1{
+  text-transform: uppercase;
+  color: #DF7861;
+}
+h3{
+color: #DF7861;
+}
